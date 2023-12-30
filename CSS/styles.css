@@ -48,6 +48,10 @@ hr {
     width: 5%;
     margin: 100px auto;
 }
+.skills {
+    background-color: #3A4F7A;
+    /* padding: 100px auto; */
+}
 .copyright {
     color: white;
     font-size: small;
